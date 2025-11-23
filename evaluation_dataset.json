@@ -1,0 +1,379 @@
+[
+  {
+    "question": "Both the green flash and Fata Morgana are atmospheric mirages. How do their formation mechanisms differ, particularly in terms of the required atmospheric condition and the visual result?",
+    "reference_answer": "The green flash is caused by the refraction and scattering of sunlight by the atmosphere when the sun is on the horizon, creating a brief, colorful point of light. Conversely, the Fata Morgana is a superior mirage requiring a strong thermal inversion layer to form an atmospheric duct where light rays bend stronger than the Earth's curvature, resulting in a complex, sustained distortion of distant objects into stacked, rapidly changing images.",
+    "gold_articles": [
+      "Green flash",
+      "Fata Morgana (mirage)"
+    ],
+    "gold_chunk_ids": {
+      "fixed_256": [
+        "chunk_69",
+        "chunk_71",
+        "chunk_72",
+        "chunk_45",
+        "chunk_46",
+        "chunk_51"
+      ],
+      "fixed_1024": [
+        "chunk_19",
+        "chunk_12"
+      ],
+      "recursive_512": [
+        "chunk_38",
+        "chunk_27",
+        "chunk_35"
+      ]
+    }
+  },
+  {
+    "question": "List the four main categories of green flashes and describe the optimal atmospheric conditions for viewing the phenomenon.",
+    "reference_answer": "The four categories of green flashes are inferior mirage, mock mirage, subduct flash, and green ray. The phenomenon is most likely to be seen in stable, clear air with an unobstructed horizon, as these conditions allow more of the setting or rising sun's light to reach the observer without being scattered.",
+    "gold_articles": [
+      "Green flash"
+    ],
+    "gold_chunk_ids": {
+      "fixed_256": [
+        "chunk_70",
+        "chunk_71"
+      ],
+      "fixed_1024": [
+        "chunk_19"
+      ],
+      "recursive_512": [
+        "chunk_39"
+      ]
+    }
+  },
+  {
+    "question": "How does a Fata Morgana visually distort distant objects, and what is the origin of the phenomenon's name?",
+    "reference_answer": "The mirage significantly distorts objects into a rapidly changing structure comprising several stacked inverted (upside down) and upright images, often with alternating compressed and stretched zones. The name is the Italian translation of \"Morgan the Fairy\" (Morgan le Fay of Arthurian legend).",
+    "gold_articles": [
+      "Fata Morgana (mirage)"
+    ],
+    "gold_chunk_ids": {
+      "fixed_256": [
+        "chunk_44",
+        "chunk_45",
+        "chunk_51"
+      ],
+      "fixed_1024": [
+        "chunk_12"
+      ],
+      "recursive_512": [
+        "chunk_26",
+        "chunk_27",
+        "chunk_28"
+      ]
+    }
+  },
+  {
+    "question": "What halo-like feature often surrounds the head of the Brocken spectre, and after which location is the phenomenon named?",
+    "reference_answer": "The head of the spectre can be surrounded by a bright area or halo-like rings of rainbow-coloured light called a glory (or Brocken bow/Heiligenschein). The phenomenon is named after the Brocken, the highest peak of the Harz Mountains in Germany.",
+    "gold_articles": [
+      "Brocken spectre"
+    ],
+    "gold_chunk_ids": {
+      "fixed_256": [
+        "chunk_25",
+        "chunk_27"
+      ],
+      "fixed_1024": [
+        "chunk_7"
+      ],
+      "recursive_512": [
+        "chunk_16",
+        "chunk_17"
+      ]
+    }
+  },
+  {
+    "question": "What is the maximum solar altitude at which the Circumzenithal arc can form, and where in the sky is the arc always centered?",
+    "reference_answer": "The Circumzenithal arc can only form when the sun is at an altitude lower than 32.2°. The arc is always centered on the zenith (the point directly overhead).",
+    "gold_articles": [
+      "Circumzenithal arc"
+    ],
+    "gold_chunk_ids": {
+      "fixed_256": [
+        "chunk_42"
+      ],
+      "fixed_1024": [
+        "chunk_11"
+      ],
+      "recursive_512": [
+        "chunk_24"
+      ]
+    }
+  },
+  {
+    "question": "Compare the chemical and biological sources responsible for the reddish color in the 'Blood Falls' of Antarctica and the 'Blood rain' phenomenon.",
+    "reference_answer": "The red color of Blood Falls is a result of a chemical oxidation process: ferrous ions from a subglacial brine pool are oxidized into poorly soluble hydrous ferric oxides upon contact with the atmosphere. In contrast, 'Blood rain' is typically caused by biological or particulate matter, often red dust suspended in the water, though the famous Kerala event was attributed to airborne spores from a terrestrial green alga.",
+    "gold_articles": [
+      "Blood Falls",
+      "Blood rain"
+    ],
+    "gold_chunk_ids": {
+      "fixed_256": [
+        "chunk_0",
+        "chunk_1",
+        "chunk_6",
+        "chunk_7"
+      ],
+      "fixed_1024": [
+        "chunk_0",
+        "chunk_2"
+      ],
+      "recursive_512": [
+        "chunk_1",
+        "chunk_4"
+      ]
+    }
+  },
+  {
+    "question": "Before the 17th century, what was the general belief regarding blood rain, and what scientific explanation gained ground in the 19th century?",
+    "reference_answer": "Before the 17th century, it was generally believed that the rain was actually blood. By the 19th century, scientific examinations concluded that the color was caused by red dust suspended in the water (rain dust), often composed of animal and vegetable matter.",
+    "gold_articles": [
+      "Blood rain"
+    ],
+    "gold_chunk_ids": {
+      "fixed_256": [
+        "chunk_6",
+        "chunk_17"
+      ],
+      "fixed_1024": [
+        "chunk_2"
+      ],
+      "recursive_512": [
+        "chunk_4"
+      ]
+    }
+  },
+  {
+    "question": "Explain the role of high fluid density in both the Brinicle formation process and the danger posed by the Lake Nyos disaster.",
+    "reference_answer": "In Brinicle formation, the high density of extremely cold, high-salinity brine (expelled from sea ice) causes it to sink into the surrounding, less-dense seawater, freezing the water it contacts. Conversely, in Lake Nyos, the high density of cold, deeply saturated carbon dioxide ($\text{CO}_2$) gas allows the $\text{CO}_2$ cloud, once released during a limnic eruption, to be heavier than air, causing it to sink and flow down the valleys, resulting in mass suffocation.",
+    "gold_articles": [
+      "Lake Nyos",
+      "Brinicle"
+    ],
+    "gold_chunk_ids": {
+      "fixed_256": [
+        "chunk_77",
+        "chunk_83",
+        "chunk_18"
+      ],
+      "fixed_1024": [
+        "chunk_21",
+        "chunk_5"
+      ],
+      "recursive_512": [
+        "chunk_42",
+        "chunk_11"
+      ]
+    }
+  },
+  {
+    "question": "What geological features contribute to the unique danger of Lake Nyos?",
+    "reference_answer": "Lake Nyos is a deep crater lake situated on the flank of an inactive volcano within the Oku volcanic plain. A pocket of magma beneath the lake continuously leaks carbon dioxide into the bottom waters, leading to high saturation and the risk of a future limnic eruption.",
+    "gold_articles": [
+      "Lake Nyos"
+    ],
+    "gold_chunk_ids": {
+      "fixed_256": [
+        "chunk_77"
+      ],
+      "fixed_1024": [
+        "chunk_21"
+      ],
+      "recursive_512": [
+        "chunk_42"
+      ]
+    }
+  },
+  {
+    "question": "Both the 'Gravity hill' and 'Sailing stones' appear to defy gravity. How do the actual mechanisms for these two phenomena contrast (one being a perceptual illusion and the other a natural physical process)?",
+    "reference_answer": "The Gravity hill is a pure visual illusion where a downhill slope appears uphill due to an obstructed horizon and misleading visual cues, with no actual force defying gravity. In contrast, Sailing stones are moved by a verifiable natural physical process: light winds push the rocks when they are encased in thin, floating ice sheets on a shallow, ephemeral winter pond, reducing friction and allowing minimal force to slide them.",
+    "gold_articles": [
+      "Gravity hill",
+      "Sailing stones"
+    ],
+    "gold_chunk_ids": {
+      "fixed_256": [
+        "chunk_67",
+        "chunk_101"
+      ],
+      "fixed_1024": [
+        "chunk_18",
+        "chunk_27"
+      ],
+      "recursive_512": [
+        "chunk_37",
+        "chunk_55"
+      ]
+    }
+  },
+  {
+    "question": "What evidence do researchers have that gravity hills are optical illusions, and what other illusion is it compared to?",
+    "reference_answer": "A 2003 study recreating the environment found that volunteers were tricked without a true horizon line, concluding the effect is a visual illusion. The illusion is structurally similar to the Ames room, where objects can also appear to defy gravity or distort perspective.",
+    "gold_articles": [
+      "Gravity hill"
+    ],
+    "gold_chunk_ids": {
+      "fixed_256": [
+        "chunk_67",
+        "chunk_68"
+      ],
+      "fixed_1024": [
+        "chunk_18"
+      ],
+      "recursive_512": [
+        "chunk_37"
+      ]
+    }
+  },
+  {
+    "question": "What are some common descriptions and regional names for the phenomenon known as a skyquake?",
+    "reference_answer": "A skyquake is described as a loud booming, banging, or horn-like noise originating from the sky, often sounding like distant, exceptionally loud thunder with no clouds or cannon fire. It is also known by regional names such as 'Seneca guns' (in New York) and 'mistpouffers'.",
+    "gold_articles": [
+      "Skyquake"
+    ],
+    "gold_chunk_ids": {
+      "fixed_256": [
+        "chunk_115",
+        "chunk_116"
+      ],
+      "fixed_1024": [
+        "chunk_30"
+      ],
+      "recursive_512": [
+        "chunk_63",
+        "chunk_64"
+      ]
+    }
+  },
+  {
+    "question": "Where is the Morning Glory cloud most predictably observed, and what physical characteristics define this formation?",
+    "reference_answer": "The Morning Glory cloud is most predictably observed in the Gulf of Carpentaria region of northeastern Australia, especially near the town of Burketown. It is a spectacular roll cloud (arcus cloud) that can stretch up to 1,000 kilometers long and travel at speeds of 10 to 20 meters per second.",
+    "gold_articles": [
+      "Morning Glory cloud"
+    ],
+    "gold_chunk_ids": {
+      "fixed_256": [
+        "chunk_89",
+        "chunk_90"
+      ],
+      "fixed_1024": [
+        "chunk_24"
+      ],
+      "recursive_512": [
+        "chunk_48"
+      ]
+    }
+  },
+  {
+    "question": "Where and when does the Naga fireball phenomenon primarily occur, and what is its traditional local explanation?",
+    "reference_answer": "The Naga fireballs occur annually on the Mekong River in Thailand, centered around the Phon Phisai District. The phenomenon is most often reported on the night of Wan Ok Phansa (the end of Buddhist Lent, usually in late October). The local folklore attributes the glowing orbs to the phaya nak, a giant serpent.",
+    "gold_articles": [
+      "Naga fireball"
+    ],
+    "gold_chunk_ids": {
+      "fixed_256": [
+        "chunk_97"
+      ],
+      "fixed_1024": [
+        "chunk_26"
+      ],
+      "recursive_512": [
+        "chunk_53"
+      ]
+    }
+  },
+  {
+    "question": "Compare the primary geographical influences on Catatumbo lightning and the Morning Glory cloud, and contrast this with the lack of a positively identified source for the Skyquake phenomenon.",
+    "reference_answer": "The Catatumbo lightning is driven by the topographical funnelling of moist, warm air from Lake Maracaibo into the high ridges of the Andes Mountains, generating continuous storms. Similarly, the Morning Glory cloud is a predictable weather event driven by the coastal convergence of sea breezes over Australia's Cape York Peninsula. Conversely, the source of the Skyquake phenomenon remains unidentified or is attributed to multiple proposed causes (like sonic booms from meteors or gas explosions), though reports are often linked to areas near bodies of water.",
+    "gold_articles": [
+      "Catatumbo lightning",
+      "Morning Glory cloud",
+      "Skyquake"
+    ],
+    "gold_chunk_ids": {
+      "fixed_256": [
+        "chunk_34",
+        "chunk_35",
+        "chunk_89",
+        "chunk_90",
+        "chunk_115"
+      ],
+      "fixed_1024": [
+        "chunk_9",
+        "chunk_24",
+        "chunk_30"
+      ],
+      "recursive_512": [
+        "chunk_21",
+        "chunk_48",
+        "chunk_63"
+      ]
+    }
+  },
+  {
+    "question": "What record does the Catatumbo lightning hold, and what historical name did navigators give it?",
+    "reference_answer": "Catatumbo lightning holds the record for the highest density of lightning in the world, with up to 250 flashes per square kilometer per year. Historically, navigators called it the 'Lighthouse of Maracaibo' because the persistent light was visible for miles and helped guide them.",
+    "gold_articles": [
+      "Catatumbo lightning"
+    ],
+    "gold_chunk_ids": {
+      "fixed_256": [
+        "chunk_34",
+        "chunk_38"
+      ],
+      "fixed_1024": [
+        "chunk_9",
+        "chunk_10"
+      ],
+      "recursive_512": [
+        "chunk_21"
+      ]
+    }
+  },
+  {
+    "question": "What are the key chemical and physical properties of the water inside a brinicle that allow it to continuously grow?",
+    "reference_answer": "The water inside the brinicle is brine, which is extremely saline and supercooled (below the normal freezing point of seawater). The high salinity significantly lowers its freezing point and increases its density, allowing it to sink and continuously freeze the surrounding water it touches.",
+    "gold_articles": [
+      "Brinicle"
+    ],
+    "gold_chunk_ids": {
+      "fixed_256": [
+        "chunk_18",
+        "chunk_19",
+        "chunk_20"
+      ],
+      "fixed_1024": [
+        "chunk_5"
+      ],
+      "recursive_512": [
+        "chunk_11",
+        "chunk_12",
+        "chunk_13"
+      ]
+    }
+  },
+  {
+    "question": "What specific combination of meteorological conditions was discovered to be the mechanism that moves the sailing stones?",
+    "reference_answer": "The movement is caused by a delicate, specific combination of conditions: 1) A shallow ephemeral winter pond must form on the playa. 2) Thin sheets of ice (a few millimeters thick) must form and then fracture into floating panels. 3) Light winds then drive these floating ice panels, creating an ice shove that pushes the rocks slowly across the soft, slippery mud surface.",
+    "gold_articles": [
+      "Sailing stones"
+    ],
+    "gold_chunk_ids": {
+      "fixed_256": [
+        "chunk_103",
+        "chunk_113"
+      ],
+      "fixed_1024": [
+        "chunk_29"
+      ],
+      "recursive_512": [
+        "chunk_62"
+      ]
+    }
+  }
+]
